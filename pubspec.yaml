@@ -61,30 +61,31 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets\images\day\background_day.png
-    - assets\images\day\ball_day.png
-    - assets\images\day\bed_day.png
-    - assets\images\day\blub_day.png
-    - assets\images\day\borderline_day.png
-    - assets\images\day\door_day.png
-    - assets\images\day\lampL_day.png
-    - assets\images\day\lampR_day.png
-    - assets\images\day\screen_day.png
-    - assets\images\day\switch_day.png
-    - assets\images\day\windowL_day.png
-    - assets\images\day\windowR_day.png
-    - assets\images\night\background_night.png
-    - assets\images\night\ball_night.png
-    - assets\images\night\bed_night.png
-    - assets\images\night\borderline_night.png
-    - assets\images\night\bulb_night.png
-    - assets\images\night\door_night.png
-    - assets\images\night\lampL_night.png
-    - assets\images\night\lampR_night.png
-    - assets\images\night\screen_night.png
-    - assets\images\night\switch_night.png
-    - assets\images\night\windowL_night.png
-    - assets\images\night\windowR_night.png
+    - assets\images\
+    # - assets\images\day\ball_day.png
+    # - assets\images\day\bed_day.png
+    # - assets\images\day\blub_day.png
+    # - assets\images\day\borderline_day.png
+    # - assets\images\day\door_day.png
+    # - assets\images\day\lampL_day.png
+    # - assets\images\day\lampR_day.png
+    # - assets\images\day\screen_day.png
+    # - assets\images\day\switch_day.png
+    # - assets\images\day\windowL_day.png
+    # - assets\images\day\windowR_day.png
+    # - assets\images\night\background_night.png
+    # - assets\images\night\ball_night.png
+    # - assets\images\night\bed_night.png
+    # - assets\images\night\borderline_night.png
+    # - assets\images\night\bulb_night.png
+    # - assets\images\night\door_night.png
+    # - assets\images\night\lampL_night.png
+    # - assets\images\night\lampR_night.png
+    # - assets\images\night\screen_night.png
+    # - assets\images\night\switch_night.png
+    # - assets\images\night\windowL_night.png
+    # - assets\images\night\windowR_night.png
+    # - assets\images\windowR_day.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
